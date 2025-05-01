@@ -77,8 +77,8 @@ PREMIUM_AND_REFERAL_MODE = bool(environ.get('PREMIUM_AND_REFERAL_MODE', False)) 
 # If PREMIUM_AND_REFERAL_MODE is True Then Fill Below Variable, If Flase Then No Need To Fill.
 REFERAL_COUNT = int(environ.get('REFERAL_COUNT', '20')) # number of referal count
 REFERAL_PREMEIUM_TIME = environ.get('REFERAL_PREMEIUM_TIME', '1month') # time in week, day, month.
-PAYMENT_QR = environ.get('PAYMENT_QR', 'https://envs.sh/JjF.jpg') # payment code picture url.
-PAYMENT_TEXT = environ.get('PAYMENT_TEXT', '<b>- ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʟᴀɴs - \n\n- 30ʀs - 1 ᴡᴇᴇᴋ\n- 50ʀs - 1 ᴍᴏɴᴛʜs\n- 120ʀs - 3 ᴍᴏɴᴛʜs\n- 220ʀs - 6 ᴍᴏɴᴛʜs\n\n🎁 ᴘʀᴇᴍɪᴜᴍ ғᴇᴀᴛᴜʀᴇs 🎁\n\n○ ɴᴏ ɴᴇᴇᴅ ᴛᴏ ᴠᴇʀɪғʏ\n○ ɴᴏ ɴᴇᴇᴅ ᴛᴏ ᴏᴘᴇɴ ʟɪɴᴋ\n○ ᴅɪʀᴇᴄᴛ ғɪʟᴇs\n○ ᴀᴅ-ғʀᴇᴇ ᴇxᴘᴇʀɪᴇɴᴄᴇ\n○ ʜɪɢʜ-sᴘᴇᴇᴅ ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ\n○ ᴍᴜʟᴛɪ-ᴘʟᴀʏᴇʀ sᴛʀᴇᴀᴍɪɴɢ ʟɪɴᴋs\n○ ᴜɴʟɪᴍɪᴛᴇᴅ ᴍᴏᴠɪᴇs & sᴇʀɪᴇs\n○ ꜰᴜʟʟ ᴀᴅᴍɪɴ sᴜᴘᴘᴏʀᴛ\n○ ʀᴇǫᴜᴇsᴛ ᴡɪʟʟ ʙᴇ ᴄᴏᴍᴘʟᴇᴛᴇᴅ ɪɴ 1ʜ ɪꜰ ᴀᴠᴀɪʟᴀʙʟᴇ\n\n✨ ᴜᴘɪ ɪᴅ - <code>kingofkali@jio</code>\n\nᴄʟɪᴄᴋ ᴛᴏ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ /myplan\n\n💢 ᴍᴜsᴛ sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ ᴀғᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ\n\n‼️ ᴀғᴛᴇʀ sᴇɴᴅɪɴɢ ᴀ sᴄʀᴇᴇɴsʜᴏᴛ ᴘʟᴇᴀsᴇ ɢɪᴠᴇ ᴜs sᴏᴍᴇ ᴛɪᴍᴇ ᴛᴏ ᴀᴅᴅ ʏᴏᴜ ɪɴ ᴛʜᴇ ᴘʀᴇᴍɪᴜᴍ</b>')
+PAYMENT_QR = environ.get('PAYMENT_QR', 'https://envs.sh/US-.jpg') # payment code picture url.
+PAYMENT_TEXT = environ.get('PAYMENT_TEXT', '<b>- ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʟᴀɴs - \n\n- 15ʀs - 1 ᴡᴇᴇᴋ\n- 40ʀs - 1 ᴍᴏɴᴛʜs\n- 110ʀs - 3 ᴍᴏɴᴛʜs\n- 200ʀs - 6 ᴍᴏɴᴛʜs\n\n🎁 ᴘʀᴇᴍɪᴜᴍ ғᴇᴀᴛᴜʀᴇs 🎁\n\n○ ɴᴏ ɴᴇᴇᴅ ᴛᴏ ᴠᴇʀɪғʏ\n○ ɴᴏ ɴᴇᴇᴅ ᴛᴏ ᴏᴘᴇɴ ʟɪɴᴋ\n○ ᴅɪʀᴇᴄᴛ ғɪʟᴇs\n○ ᴀᴅ-ғʀᴇᴇ ᴇxᴘᴇʀɪᴇɴᴄᴇ\n○ ʜɪɢʜ-sᴘᴇᴇᴅ ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ\n○ ᴍᴜʟᴛɪ-ᴘʟᴀʏᴇʀ sᴛʀᴇᴀᴍɪɴɢ ʟɪɴᴋs\n○ ᴜɴʟɪᴍɪᴛᴇᴅ ᴍᴏᴠɪᴇs & sᴇʀɪᴇs\n○ ꜰᴜʟʟ ᴀᴅᴍɪɴ sᴜᴘᴘᴏʀᴛ\n○ ʀᴇǫᴜᴇsᴛ ᴡɪʟʟ ʙᴇ ᴄᴏᴍᴘʟᴇᴛᴇᴅ ɪɴ 1ʜ ɪꜰ ᴀᴠᴀɪʟᴀʙʟᴇ\n\n✨ ᴜᴘɪ ɪᴅ - <code>indianmv@axl</code>\n\nᴄʟɪᴄᴋ ᴛᴏ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ /myplan\n\n💢 ᴍᴜsᴛ sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ ᴀғᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ\n\n‼️ ᴀғᴛᴇʀ sᴇɴᴅɪɴɢ ᴀ sᴄʀᴇᴇɴsʜᴏᴛ ᴘʟᴇᴀsᴇ ɢɪᴠᴇ ᴜs sᴏᴍᴇ ᴛɪᴍᴇ ᴛᴏ ᴀᴅᴅ ʏᴏᴜ ɪɴ ᴛʜᴇ ᴘʀᴇᴍɪᴜᴍ</b>')
 
 
 # Clone Information : If Clone Mode Is True Then Bot Clone Other Bots.
@@ -98,7 +98,7 @@ AI_SPELL_CHECK = bool(environ.get('AI_SPELL_CHECK', True))
 PM_SEARCH = bool(environ.get('PM_SEARCH', True))
 BUTTON_MODE = bool(environ.get('BUTTON_MODE', False))
 MAX_BTN = bool(environ.get('MAX_BTN', True))
-IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', False))
+IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
 IMDB = bool(environ.get('IMDB', True))
 AUTO_FFILTER = bool(environ.get('AUTO_FFILTER', True))
 AUTO_DELETE = bool(environ.get('AUTO_DELETE', True))
@@ -107,21 +107,21 @@ SPELL_CHECK_REPLY = bool(environ.get("SPELL_CHECK_REPLY", True))
 MELCOW_NEW_USERS = bool(environ.get('MELCOW_NEW_USERS', True))
 PROTECT_CONTENT = bool(environ.get('PROTECT_CONTENT', False))
 PUBLIC_FILE_STORE = bool(environ.get('PUBLIC_FILE_STORE', False))
-NO_RESULTS_MSG = bool(environ.get("NO_RESULTS_MSG", False))
+NO_RESULTS_MSG = bool(environ.get("NO_RESULTS_MSG", True))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
 
 # Token Verification Info :
-VERIFY = bool(environ.get('VERIFY', False))
-VERIFY_SHORTLINK_URL = environ.get('VERIFY_SHORTLINK_URL', '')
-VERIFY_SHORTLINK_API = environ.get('VERIFY_SHORTLINK_API', '')
-VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', '')
+VERIFY = bool(environ.get('VERIFY', True))
+VERIFY_SHORTLINK_URL = environ.get('VERIFY_SHORTLINK_URL', 'Shortxlinks.com')
+VERIFY_SHORTLINK_API = environ.get('VERIFY_SHORTLINK_API', '9a0544addc47c0757f288817afe08c785c0e80d1')
+VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://t.me/How_To_Download_MVS/4')
 
 # If You Fill Second Shortner Then Bot Attach Both First And Second Shortner And Use It For Verify.
-VERIFY_SECOND_SHORTNER = bool(environ.get('VERIFY_SECOND_SHORTNER', False))
+VERIFY_SECOND_SHORTNER = bool(environ.get('VERIFY_SECOND_SHORTNER', True))
 # if verify second shortner is True then fill below url and api
-VERIFY_SND_SHORTLINK_URL = environ.get('VERIFY_SND_SHORTLINK_URL', '')
-VERIFY_SND_SHORTLINK_API = environ.get('VERIFY_SND_SHORTLINK_API', '')
+VERIFY_SND_SHORTLINK_URL = environ.get('VERIFY_SND_SHORTLINK_URL', 'Shortxlinks.com')
+VERIFY_SND_SHORTLINK_API = environ.get('VERIFY_SND_SHORTLINK_API', '9a0544addc47c0757f288817afe08c785c0e80d1')
 
 
 # Shortlink Info
@@ -174,7 +174,7 @@ RENAME_MODE = bool(environ.get('RENAME_MODE', False)) # Set True or False
 
 
 # Auto Approve Info : If True Then Bot Approve New Upcoming Join Request Else Not
-AUTO_APPROVE_MODE = bool(environ.get('AUTO_APPROVE_MODE', True)) # Set True or False
+AUTO_APPROVE_MODE = bool(environ.get('AUTO_APPROVE_MODE', False)) # Set True or False
 
 
 # Start Command Reactions
