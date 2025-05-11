@@ -246,8 +246,6 @@ Nᴀᴍᴇ - {}"""
 
     CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}
 
-🔊Audio : {languages}
-
 <blockquote>🌹 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 ›› <a href="https://t.me/Indian_MV">🇮🇳 𝐈𝐧𝐝𝐢𝐚𝐧 𝐌𝐕 🇮🇳</a></blockquote></b>""" 
 
     IMDB_TEMPLATE_TXT = """<b><blockquote>🏷 Title: <a href={url}>{title}</a>
