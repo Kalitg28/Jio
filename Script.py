@@ -246,7 +246,7 @@ Nᴀᴍᴇ - {}"""
 
     CAPTION = """<b><i>📂 ғɪʟᴇɴᴀᴍᴇ : @Indian_MV {file_name}
 
-💾sɪᴢᴇ : {file_size}</i>
+🔊Audio : {languages}</i>
 
 <blockquote>🌹 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 ›› <a href="https://t.me/Indian_MV">🇮🇳 𝐈𝐧𝐝𝐢𝐚𝐧 𝐌𝐕 🇮🇳</a></blockquote></b>""" 
 
