@@ -17,7 +17,7 @@ BOT_TOKEN = environ.get('BOT_TOKEN', "")
 
 
 # This Pictures Is For Start Message Picture, You Can Add Multiple By Giving One Space Between Each.
-PICS = (environ.get('PICS', 'https://envs.sh/ste.jpg')).split()
+PICS = (environ.get('PICS', 'https://envs.sh/ste.jpg https://envs.sh/oLu.jpg https://envs.sh/kNA.jpg https://envs.sh/kNp.jpg https://envs.sh/kvM.jpg')).split()
 
 
 # Admins & Users
@@ -26,7 +26,7 @@ auth_users = [int(user) if id_pattern.search(user) else user for user in environ
 AUTH_USERS = (auth_users + ADMINS) if auth_users else []
 
 # This Channel Is For When User Start Your Bot Then Bot Send That User Name And Id In This Log Channel, Same For Group Also.
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001908928408'))
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002008970692'))
 
 # This Is File Channel Where You Upload Your File Then Bot Automatically Save It In Database 
 CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '').split()]  # For Multiple Id Use One Space Between Each.
@@ -37,7 +37,7 @@ REQUEST_TO_JOIN_MODE = bool(environ.get('REQUEST_TO_JOIN_MODE', True)) # Set Tru
 TRY_AGAIN_BTN = bool(environ.get('TRY_AGAIN_BTN', True)) # Set True Or False (This try again button is only for request to join fsub not for normal fsub)
 
 # This Is Force Subscribe Channel, also known as Auth Channel 
-auth_channel = environ.get('AUTH_CHANNEL', '-1002698964455') # give your force subscribe channel id here else leave it blank
+auth_channel = environ.get('AUTH_CHANNEL', '-1002698964455 -1002327045567') # give your force subscribe channel id here else leave it blank
 AUTH_CHANNEL = int(auth_channel) if auth_channel and id_pattern.search(auth_channel) else None
 
 # This Channel Is For When User Request Any File Name With command or hashtag like - /request or #request
